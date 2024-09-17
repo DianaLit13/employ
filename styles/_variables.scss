@@ -1,0 +1,23 @@
+//_variables.scss
+
+:root {
+  --color-dark: #000000;
+  --color-light: #ffffff;
+  --color-dark-blue: #3E9CDC;
+  --color-light-blue: #43ABF0;
+  --color-header: rgba(16, 16, 29, 0.9);
+  --color-footer: #3D4050;
+  --color-grey: #272733;
+
+
+  --font-family-base: 'Lato', sans-serif;
+  --font-family-alternative: 'Raleway', sans-serif;
+
+  --header-height: 100px;
+
+  --container-max-width: 1172px;
+  --container-padding-x: 15px;
+
+  --transition-duration: 0.2s;
+
+}
